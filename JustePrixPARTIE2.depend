@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1607438440 source:e:\justeprixpartie2\main_f1_f2_f3.cpp
+	<iostream>
+	<windows.h>
+	"jeu.h"
+	"constantes.h"
+	"menu.h"
+
+1607435032 e:\justeprixpartie2\constantes.h
+
+1607676190 source:e:\justeprixpartie2\jeu.cpp
+	<iostream>
+	"constantes.h"
+	"jeu.h"
+	<chrono>
+
+1607436890 e:\justeprixpartie2\jeu.h
+
+1607437196 source:e:\justeprixpartie2\menu.cpp
+	"menu.h"
+	<iostream>
+
+1607437210 e:\justeprixpartie2\menu.h
+
+1607676190 source:e:\programme adrien\justeprixpartie2\jeu.cpp
+	<iostream>
+	"constantes.h"
+	"jeu.h"
+	<chrono>
+
+1607435032 e:\programme adrien\justeprixpartie2\constantes.h
+
+1607436890 e:\programme adrien\justeprixpartie2\jeu.h
+
+1607676974 source:e:\programme adrien\justeprixpartie2\main_f1_f2_f3.cpp
+	<iostream>
+	<windows.h>
+	"jeu.h"
+	"constantes.h"
+	"menu.h"
+
+1607437210 e:\programme adrien\justeprixpartie2\menu.h
+
+1607437196 source:e:\programme adrien\justeprixpartie2\menu.cpp
+	"menu.h"
+	<iostream>
+
+1607681820 source:c:\users\imran.ajmal\desktop\justeprixpartie2\main_f1_f2_f3.cpp
+	<iostream>
+	<windows.h>
+	"jeu.h"
+	"constantes.h"
+	"menu.h"
+
+1607436890 c:\users\imran.ajmal\desktop\justeprixpartie2\jeu.h
+
+1607435032 c:\users\imran.ajmal\desktop\justeprixpartie2\constantes.h
+
+1607437210 c:\users\imran.ajmal\desktop\justeprixpartie2\menu.h
+
+1607437196 source:c:\users\imran.ajmal\desktop\justeprixpartie2\menu.cpp
+	"menu.h"
+	<iostream>
+
+1607682128 source:c:\users\imran.ajmal\desktop\justeprixpartie2\jeu.cpp
+	<iostream>
+	"constantes.h"
+	"jeu.h"
+	<chrono>
+
